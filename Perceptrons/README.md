@@ -45,3 +45,9 @@
 <p> 2º - se a primeira resposta for NAO, indepedente das outras respostas o retorno será "Você não deve ir ao evento" </p>
 <img src="./assets/exemploDois.png" alt="Resolução do exemplo dois">
 <p><strong>Mas se fizermos uma pequena alteração no limite para 3 inves de 5, temos as seguintes reoluções: </strong></p>
+<p> 1º- se a primeira resposta for NAO, e as outras respostas forem SIM o retorno será "Você deve ir ao evento".</p>
+<img src="./assets/exemplo-2-1.png" alt="Resolução do exemplo um">
+<p> 2º- se a primeira resposta for SIM, indepedente das outras respostas o retorno será "Você deve ir ao evento".</p>
+<img src="./assets/exemplo-2-2.png" alt="Resolução do exemplo dois">
+<p> 3º- se a primeira resposta for NAO, e uma outra resposta for NAO o retorno será "Você deve ir ao evento".</p>
+<img src="./assets/exemplo-2-3.png" alt="Resolução do exemplo tres">
