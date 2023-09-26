@@ -57,4 +57,4 @@
 <p>Sendo assim, podemos identificar que se alterarmos o limiar da equação, o retorno será diferente do exemplo anterior, e como usamos os Perceptrons para retornarem <strong>(≈0)</strong> ou <strong>(≈1)</strong>, poderíamos alterar nossa saída para 0 quando: "Você não deve ir ao evento" e 1 quando: "Você deve ir ao evento". Outra leitura com fim de exemplo seria a comparação de 1 para True e 0 para False.</p>
 <hr/>
 <img src="./assets/conteudo.png" alt="Definição visual de um perceptron e a sua equação">
-<p> Dado o entendimento mais aprimorado, podemos consultar a ducumentação basica <a href="./assets/teorico1.pdf">aqui</a> 
+<p> Dado o entendimento mais aprimorado, podemos consultar a documentação basica <a href="./assets/teorico1.pdf">aqui</a> 
