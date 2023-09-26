@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <th>Baias</th>
-      <td>Valor BAIA</td>
+      <td>Valor BAIAS</td>
     </tr>
     <tr>
       <th>Limit</th>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <th>x2</th>
-      <td>Input 2</td>
+      <td>Input 3</td>
     </tr>
   </thead>
 </table>
