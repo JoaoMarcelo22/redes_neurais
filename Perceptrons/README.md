@@ -39,4 +39,4 @@
   </thead>
 </table>
 <img src="./assets/codigoVsCode.png" alt="Imagem do codigo">
-<p> Dado a narrativa apresentada, podemos ter algumas resoluções, a primeira pergunta tem o peso 6, já a segunda e terceira tem peso 2, como definimos o Limit em 5, podemos ter apenas duas respostas:<br/> 1º- se a primeira resposta for SIM, indepedente das outras respostas o retorno será "Você deve ir ao evento".<br/> 2º - se a primeira resposta for NAO, indepedente das outras respostas o retorno será "Você não deve ir ao evento" </p>
+<p> Dado a narrativa apresentada, podemos ter algumas resoluções, a primeira pergunta tem o peso 6, já a segunda e terceira tem peso 2, como definimos o Limit em 5 e deixamos o valor de Baia em 0, podemos ter apenas duas respostas:<br/><br/> 1º- se a primeira resposta for SIM, indepedente das outras respostas o retorno será "Você deve ir ao evento".<br/> 2º - se a primeira resposta for NAO, indepedente das outras respostas o retorno será "Você não deve ir ao evento" </p>
