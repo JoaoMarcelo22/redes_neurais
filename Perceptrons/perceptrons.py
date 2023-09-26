@@ -2,7 +2,7 @@
 w = 6
 w2 = 2
 baias = 0
-limit = 5
+limit = 3
 
 print("""-------------------------------------------
 Responda as Perguntas a seguir com S ou N, dado ao evento a seguir...
