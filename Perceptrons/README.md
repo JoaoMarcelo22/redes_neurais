@@ -53,6 +53,7 @@
 <img src="./assets/exemplo-2-2.png" alt="Resolução do exemplo dois">
 <p> 3º- se a primeira resposta for NAO, e uma outra resposta for NAO o retorno será "Você deve ir ao evento".</p>
 <img src="./assets/exemplo-2-3.png" alt="Resolução do exemplo tres">
-<br/><br/><br/>
-<p>Sendo assim, podemos identificar que se alterarmos a limiar da equação, o retorno será diferente do exemplo anterior, e como usamos os Perceptrons para retornarem (≃0) ou (≃1) poderiamos alterar nossa saida para 0 quando: "Você não deve ir ao evento" e 1 quando: "Você deve ir ao evento", outra leitura com fim de exemplo seria a comparação de 1 para True e 0 para False.</p>
+<br/><br/>
+<p>Sendo assim, podemos identificar que se alterarmos a limiar da equação, o retorno será diferente do exemplo anterior, e como usamos os Perceptrons para retornarem <strong>(≃0)</strong> ou <strong>(≃1)</strong> poderiamos alterar nossa saida para 0 quando: "Você não deve ir ao evento" e 1 quando: "Você deve ir ao evento", outra leitura com fim de exemplo seria a comparação de 1 para True e 0 para False.</p>
+<hr/>
 <img src="./assets/conteudo.png" alt="Definação vizual de um perceptron e a sua equação">
